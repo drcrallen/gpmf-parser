@@ -34,3 +34,8 @@
 
 # pkg-config files
 /*.pc
+
+# Build files
+demo/gpmfdemo*
+build
+processed
